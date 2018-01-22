@@ -1,0 +1,57 @@
+
+/* .prod-tile{
+    width: 200px;
+    height: 30px;
+    background: grey;
+} */
+
+.prod-tile button {
+    width: 200px;
+    height: 50px;
+    border: 4px solid gold;
+    /* display: flex;
+    align-items: center; */
+}
+
+.left-col, .right-col{
+    height: 50px;
+    width: 96px;
+    /* background: red; */
+}
+
+.left-col {
+    float: left;
+}
+
+.right-col {
+    float: right;
+}
+
+.prod-name, .prod-cost, .prod-quant, .res-per-sec {
+    height: 25px;
+    width:  px;
+}
+
+/* /* .prod-name {
+    height: 25px;
+    width:  100px;
+    float: left;
+}
+
+.prod-cost {
+    height: 25px;
+    width:  100px;
+    float: left;
+}
+
+.prod-quantity {
+    float: right;
+    height: 25xp;
+    width: 100px;
+}
+
+.res-per-sec {
+    float: right;
+    height: 25xp;
+    width: 100px;
+} */

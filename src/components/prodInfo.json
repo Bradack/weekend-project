@@ -1,0 +1,45 @@
+[{
+    "id": 0,
+    "name": "Kindoo",
+    "desc": "",
+    "cost": 20,
+    "ratio": 1.15,
+    "output": 1,
+    "quant": 0
+},
+{
+    "id": 1,
+    "name": "Wooda",
+    "desc": "",
+    "cost": 300,
+    "ratio": 1.15,
+    "output": 10,
+    "quant": 0
+},
+{
+    "id": 2,
+    "name": "Duyot",
+    "desc": "",
+    "cost": 4500,
+    "ratio": 1.15,
+    "output": 100,
+    "quant": 0
+},
+{
+    "id": 3,
+    "name": "Mamadirk",
+    "desc": "",
+    "cost": 67500,
+    "ratio": 1.15,
+    "output": 1000,
+    "quant": 0
+},
+{
+    "id": 4,
+    "name": "Zaadaroo",
+    "desc": "",
+    "cost": 1000000,
+    "ratio": 1.15,
+    "output": 10000,
+    "quant": 0
+}]
